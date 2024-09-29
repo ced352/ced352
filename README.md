@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently new to Github, learning Web Development
 
 <!--
 **ced352/ced352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm currently new to Github, learning Web Development
+I'm currently learning Web Development and am interested in the Backend side.
+Fun fact: I started drinking coffee and using GitHub today (9/29/24).
 
 <!--
 **ced352/ced352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
